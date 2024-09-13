@@ -76,5 +76,4 @@ foundation that we can build upon as we continue to learn about web development.
 
 _Clap along if you feel_ you're getting the hang of HTML!
 
-[read up on some reference material]:
-  https://www.w3schools.com/tags/tag_span.asp
+[read up on some reference material]: https://www.w3schools.com/tags/tag_span.asp
